@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: verdana;
+  font-weight: normal;
+}
+h1, h2, h4 {
+  color: blue;
+}
+h1 {
+  font-size: 50 px;
+}
+.link {
+  color: aquamarine;
+  font-size: 16px
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+.tm {
+  text-align:right;
+}
