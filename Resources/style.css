@@ -4,8 +4,8 @@ body {
   font-family: verdana;
   font-weight: normal;
 }
-h1, h2, h4 {
-  color: blue;
+h1, h2 {
+  color: white;
 }
 h1 {
   font-size: 50 px;
